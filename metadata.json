@@ -1,0 +1,5 @@
+{
+  "name": "Jack Black Hide n Seek",
+  "description": "An online multiplayer hide-and-seek game with a sneak radar, cool maps, built-in chat, lobbies, community chat, and a leaderboard. This is a frontend simulation of a multiplayer game.",
+  "requestFramePermissions": []
+}
